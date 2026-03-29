@@ -4,6 +4,13 @@ Este proyecto es una exhibición de mis bases sólidas en el desarrollo frontend
 
 ---
 
+## 🖥️ Vista Previa del Diseño
+<img width="1280" height="720" alt="Captura de pantalla (1124)" src="https://github.com/user-attachments/assets/b382bab3-ee6c-4f45-a161-4f1e6c3dbdce" />
+<img width="1280" height="720" alt="Captura de pantalla (1123)" src="https://github.com/user-attachments/assets/aaf5c6d7-6898-47ae-812f-98d7fcf1f3dd" />
+
+
+---
+
 ## 🎨 Características Técnicas
 * **HTML5 Semántico:** Uso correcto de etiquetas `<header>`, `<section>`, `<article>` y `<footer>` para mejor estructura y SEO.
 * **Layout con Flexbox:** Implementación de un sistema de rejilla flexible para la organización de posts y secciones dinámicas.
